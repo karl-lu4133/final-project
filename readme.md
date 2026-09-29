@@ -4,7 +4,7 @@
   Deep Learning on Satellite Imagery
   <br>and running inference on the
   <br>Raspberry Pi Pico Microcontroller
-  <br><br><bold>by Arjun Bajaj</bold>
+  <br><br><bold>by Kaung Htet Lu</bold>
 </h1>
 
 <br>
